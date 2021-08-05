@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Summary coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thedemoncat)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thedemoncat&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedemoncat&hide=TeX&layout=compact)
 
